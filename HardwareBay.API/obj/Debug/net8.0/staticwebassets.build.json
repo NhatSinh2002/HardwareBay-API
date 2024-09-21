@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IilOpqCLwfjH6soU4pNfnAiHaP07796UNNsQRBoZr+4=",
+  "Source": "HardwareBay.API",
+  "BasePath": "_content/HardwareBay.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
