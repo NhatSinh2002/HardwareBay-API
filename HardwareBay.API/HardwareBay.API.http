@@ -1,0 +1,6 @@
+@HardwareBay.API_HostAddress = http://localhost:5043
+
+GET {{HardwareBay.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
