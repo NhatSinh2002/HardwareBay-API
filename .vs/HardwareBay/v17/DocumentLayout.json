@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\CODE\\HardwareBay\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|d:\\code\\hardwarebay\\hardwarebay.api\\migrations\\20240921105241_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|solutionrelative:hardwarebay.api\\migrations\\20240921105241_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|d:\\code\\hardwarebay\\hardwarebay.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|solutionrelative:hardwarebay.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|d:\\code\\hardwarebay\\hardwarebay.api\\models\\domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|solutionrelative:hardwarebay.api\\models\\domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|d:\\code\\hardwarebay\\hardwarebay.api\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|solutionrelative:hardwarebay.api\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|d:\\code\\hardwarebay\\hardwarebay.api\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|solutionrelative:hardwarebay.api\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|d:\\code\\hardwarebay\\hardwarebay.api\\models\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|solutionrelative:hardwarebay.api\\models\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|d:\\code\\hardwarebay\\hardwarebay.api\\models\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|solutionrelative:hardwarebay.api\\models\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|d:\\code\\hardwarebay\\hardwarebay.api\\models\\domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|solutionrelative:hardwarebay.api\\models\\domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|d:\\code\\hardwarebay\\hardwarebay.api\\models\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,14 +43,6 @@
       "RelativeMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|solutionrelative:hardwarebay.api\\models\\domain\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|d:\\code\\hardwarebay\\hardwarebay.api\\models\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|solutionrelative:hardwarebay.api\\models\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|d:\\code\\hardwarebay\\hardwarebay.api\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|solutionrelative:hardwarebay.api\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|d:\\code\\hardwarebay\\hardwarebay.api\\data\\hardwarebaydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|solutionrelative:hardwarebay.api\\data\\hardwarebaydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|d:\\code\\hardwarebay\\hardwarebay.api\\hardwarebay.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|solutionrelative:hardwarebay.api\\hardwarebay.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|d:\\code\\hardwarebay\\hardwarebay.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7268364-4516-4BAD-BB9F-399AE764A639}|HardwareBay.API\\HardwareBay.API.csproj|solutionrelative:hardwarebay.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,63 +66,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240921105241_Initial Migration.cs",
-              "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Migrations\\20240921105241_Initial Migration.cs",
-              "RelativeDocumentMoniker": "HardwareBay.API\\Migrations\\20240921105241_Initial Migration.cs",
-              "ToolTip": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Migrations\\20240921105241_Initial Migration.cs",
-              "RelativeToolTip": "HardwareBay.API\\Migrations\\20240921105241_Initial Migration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\DTO\\ProductDto.cs",
+              "RelativeDocumentMoniker": "HardwareBay.API\\Models\\DTO\\ProductDto.cs",
+              "ToolTip": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\DTO\\ProductDto.cs*",
+              "RelativeToolTip": "HardwareBay.API\\Models\\DTO\\ProductDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T10:52:41.727Z",
+              "WhenOpened": "2024-09-22T09:56:33.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Review.cs",
-              "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\Review.cs",
-              "RelativeDocumentMoniker": "HardwareBay.API\\Models\\Domain\\Review.cs",
-              "ToolTip": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\Review.cs",
-              "RelativeToolTip": "HardwareBay.API\\Models\\Domain\\Review.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T10:34:50.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "HardwareBay.API\\Models\\Domain\\OrderDetail.cs",
-              "ToolTip": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\OrderDetail.cs",
-              "RelativeToolTip": "HardwareBay.API\\Models\\Domain\\OrderDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T09:08:50.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\Category.cs",
-              "RelativeDocumentMoniker": "HardwareBay.API\\Models\\Domain\\Category.cs",
-              "ToolTip": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\Category.cs",
-              "RelativeToolTip": "HardwareBay.API\\Models\\Domain\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T09:06:53.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\Order.cs",
               "RelativeDocumentMoniker": "HardwareBay.API\\Models\\Domain\\Order.cs",
@@ -135,33 +96,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\Payment.cs",
-              "RelativeDocumentMoniker": "HardwareBay.API\\Models\\Domain\\Payment.cs",
-              "ToolTip": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\Payment.cs",
-              "RelativeToolTip": "HardwareBay.API\\Models\\Domain\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBAAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T09:09:19.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\Product.cs",
               "RelativeDocumentMoniker": "HardwareBay.API\\Models\\Domain\\Product.cs",
               "ToolTip": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\Product.cs",
               "RelativeToolTip": "HardwareBay.API\\Models\\Domain\\Product.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAuwCUAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T09:03:33.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ShoppingCart.cs",
               "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\ShoppingCart.cs",
               "RelativeDocumentMoniker": "HardwareBay.API\\Models\\Domain\\ShoppingCart.cs",
@@ -169,12 +117,11 @@
               "RelativeToolTip": "HardwareBay.API\\Models\\Domain\\ShoppingCart.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T09:10:04.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T09:10:04.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\User.cs",
               "RelativeDocumentMoniker": "HardwareBay.API\\Models\\Domain\\User.cs",
@@ -182,12 +129,11 @@
               "RelativeToolTip": "HardwareBay.API\\Models\\Domain\\User.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwCQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T09:07:26.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T09:07:26.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "HardwareBayDbContext.cs",
               "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Data\\HardwareBayDbContext.cs",
               "RelativeDocumentMoniker": "HardwareBay.API\\Data\\HardwareBayDbContext.cs",
@@ -195,12 +141,74 @@
               "RelativeToolTip": "HardwareBay.API\\Data\\HardwareBayDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T09:51:13.65Z",
+              "WhenOpened": "2024-09-21T09:51:13.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "HardwareBay.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "HardwareBay.API\\Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwEAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:01:33.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "HardwareBay.API\\Models\\Domain\\Category.cs",
+              "ToolTip": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\Category.cs",
+              "RelativeToolTip": "HardwareBay.API\\Models\\Domain\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:06:53.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\Payment.cs",
+              "RelativeDocumentMoniker": "HardwareBay.API\\Models\\Domain\\Payment.cs",
+              "ToolTip": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\Payment.cs",
+              "RelativeToolTip": "HardwareBay.API\\Models\\Domain\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:09:19.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\Review.cs",
+              "RelativeDocumentMoniker": "HardwareBay.API\\Models\\Domain\\Review.cs",
+              "ToolTip": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\Review.cs",
+              "RelativeToolTip": "HardwareBay.API\\Models\\Domain\\Review.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:34:50.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "HardwareBay.API\\Models\\Domain\\OrderDetail.cs",
+              "ToolTip": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Models\\Domain\\OrderDetail.cs",
+              "RelativeToolTip": "HardwareBay.API\\Models\\Domain\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:08:50.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Program.cs",
               "RelativeDocumentMoniker": "HardwareBay.API\\Program.cs",
@@ -208,12 +216,11 @@
               "RelativeToolTip": "HardwareBay.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T10:21:49.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T10:21:49.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\appsettings.json",
               "RelativeDocumentMoniker": "HardwareBay.API\\appsettings.json",
@@ -221,34 +228,19 @@
               "RelativeToolTip": "HardwareBay.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-21T09:26:44.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T09:26:44.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HardwareBay.API",
+              "DocumentIndex": 13,
+              "Title": "HardwareBay.API.csproj",
               "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\HardwareBay.API.csproj",
               "RelativeDocumentMoniker": "HardwareBay.API\\HardwareBay.API.csproj",
               "ToolTip": "D:\\CODE\\HardwareBay\\HardwareBay.API\\HardwareBay.API.csproj",
               "RelativeToolTip": "HardwareBay.API\\HardwareBay.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-21T02:17:09.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "HardwareBay.API\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\CODE\\HardwareBay\\HardwareBay.API\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "HardwareBay.API\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T09:01:33.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T02:17:09.663Z"
             }
           ]
         }

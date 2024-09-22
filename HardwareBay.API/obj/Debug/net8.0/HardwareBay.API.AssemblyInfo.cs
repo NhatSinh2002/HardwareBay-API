@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HardwareBay.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8479ab1a093c20e9a7d257cb4777389d708b54ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff244c24a19b27e34757178ffbd9fabc9d96d83c")]
 [assembly: System.Reflection.AssemblyProductAttribute("HardwareBay.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HardwareBay.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
