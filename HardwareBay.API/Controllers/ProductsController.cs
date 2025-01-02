@@ -1,9 +1,9 @@
-﻿using HardwareBay.API.Data;
-using HardwareBay.API.Models.DTO;
+﻿using HardwareBayAPI.Data;
+using HardwareBayAPI.Models.DTO;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace HardwareBay.API.Controllers
+namespace HardwareBayAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

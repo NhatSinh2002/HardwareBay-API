@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "IilOpqCLwfjH6soU4pNfnAiHaP07796UNNsQRBoZr+4=",
-  "Source": "HardwareBay.API",
-  "BasePath": "_content/HardwareBay.API",
+  "Hash": "nqHJaKgD/Y0tQBop4lpSe81qsA5ExzJTXTN5U/rz2dM=",
+  "Source": "HardwareBayAPI",
+  "BasePath": "_content/HardwareBayAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

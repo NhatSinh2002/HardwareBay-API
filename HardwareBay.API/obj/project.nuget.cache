@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WqIbnCE7wBk=",
+  "dgSpecHash": "t4kPo/1a+wo=",
   "success": true,
-  "projectFilePath": "D:\\CODE\\HardwareBay\\HardwareBay.API\\HardwareBay.API.csproj",
+  "projectFilePath": "D:\\CODE\\HardwareBay\\HardwareBay.API\\HardwareBayAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SINH\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\SINH\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

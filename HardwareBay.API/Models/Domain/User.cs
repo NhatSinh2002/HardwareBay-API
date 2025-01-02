@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.ViewEngines;
 using System.ComponentModel.DataAnnotations;
 
-namespace HardwareBay.API.Models.Domain
+namespace HardwareBayAPI.Models.Domain
 {
     public class User
     {

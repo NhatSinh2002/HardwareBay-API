@@ -4527,9 +4527,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CODE\\HardwareBay\\HardwareBay.API\\HardwareBay.API.csproj",
-      "projectName": "HardwareBay.API",
-      "projectPath": "D:\\CODE\\HardwareBay\\HardwareBay.API\\HardwareBay.API.csproj",
+      "projectUniqueName": "D:\\CODE\\HardwareBay\\HardwareBay.API\\HardwareBayAPI.csproj",
+      "projectName": "HardwareBayAPI",
+      "projectPath": "D:\\CODE\\HardwareBay\\HardwareBay.API\\HardwareBayAPI.csproj",
       "packagesPath": "C:\\Users\\SINH\\.nuget\\packages\\",
       "outputPath": "D:\\CODE\\HardwareBay\\HardwareBay.API\\obj\\",
       "projectStyle": "PackageReference",
@@ -4600,7 +4600,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

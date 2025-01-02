@@ -1,7 +1,7 @@
-﻿using HardwareBay.API.Models.Domain;
+﻿using HardwareBayAPI.Models.Domain;
 using Microsoft.EntityFrameworkCore;
 
-namespace HardwareBay.API.Data
+namespace HardwareBayAPI.Data
 {
     public class HardwareBayDbContext:DbContext
     {

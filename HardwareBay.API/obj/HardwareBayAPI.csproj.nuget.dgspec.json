@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CODE\\HardwareBay\\HardwareBay.API\\HardwareBay.API.csproj": {}
+    "D:\\CODE\\HardwareBay\\HardwareBay.API\\HardwareBayAPI.csproj": {}
   },
   "projects": {
-    "D:\\CODE\\HardwareBay\\HardwareBay.API\\HardwareBay.API.csproj": {
+    "D:\\CODE\\HardwareBay\\HardwareBay.API\\HardwareBayAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODE\\HardwareBay\\HardwareBay.API\\HardwareBay.API.csproj",
-        "projectName": "HardwareBay.API",
-        "projectPath": "D:\\CODE\\HardwareBay\\HardwareBay.API\\HardwareBay.API.csproj",
+        "projectUniqueName": "D:\\CODE\\HardwareBay\\HardwareBay.API\\HardwareBayAPI.csproj",
+        "projectName": "HardwareBayAPI",
+        "projectPath": "D:\\CODE\\HardwareBay\\HardwareBay.API\\HardwareBayAPI.csproj",
         "packagesPath": "C:\\Users\\SINH\\.nuget\\packages\\",
         "outputPath": "D:\\CODE\\HardwareBay\\HardwareBay.API\\obj\\",
         "projectStyle": "PackageReference",

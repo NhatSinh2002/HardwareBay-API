@@ -1,4 +1,4 @@
-using HardwareBay.API.Data;
+using HardwareBayAPI.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,7 +10,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<HardwareBayDbContext>(options =>
-options.UseSqlServer(builder.Configuration.GetConnectionString("HardwareBayConnectionString")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("HardwareBayConnectionString")));
 
 var app = builder.Build();
 

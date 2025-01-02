@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace HardwareBay.API.Models.Domain
+namespace HardwareBayAPI.Models.Domain
 {
     public class ShoppingCart
     {
